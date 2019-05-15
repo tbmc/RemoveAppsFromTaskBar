@@ -1,4 +1,4 @@
-# Remove shitty apps from task bar on Windows 10
+# Remove apps from task bar on Windows 10
 Based on [this article](http://alexweinberger.com/main/pinning-network-program-taskbar-programmatically-windows-10/)
 
 ## To use it

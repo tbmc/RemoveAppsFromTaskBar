@@ -41,7 +41,7 @@ namespace RemoveShittyAppsFromTaskbar
             bool success = RemoveFromTaskBar.RemoveListFromTaskbar(list);
 
             Console.WriteLine($"L'opération s'est bien déroulé : {success}");
-            Thread.Sleep(5000);
+            Thread.Sleep(1000);
             return success ? 0 : 1;
         }
     }

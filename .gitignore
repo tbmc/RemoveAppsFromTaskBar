@@ -350,7 +350,5 @@ MigrationBackup/
 
 # End of https://www.gitignore.io/api/csharp
 
-.vs/
 
-
-!RemoveShittyAppsFromTaskbar/bin/Release/
+!Release/

@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace RemoveShittyAppsFromTaskbar
+namespace RemoveAppsFromTaskbar
 {
     public static class Utils
     {

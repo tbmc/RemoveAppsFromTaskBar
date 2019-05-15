@@ -30,6 +30,7 @@ namespace RemoveShittyAppsFromTaskbar
             foreach(string fileName in list)
             {
                 bool tempSuccess = Utils.PinUnpinTaskbar(fileName, false);
+                System.Console.WriteLine($"{fileName} : {tempSuccess}");
                 if (!tempSuccess)
                     sucess = false;
             }
